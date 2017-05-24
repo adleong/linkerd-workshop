@@ -60,6 +60,12 @@ cat << EOF > /disco/animal
 > EOF
 ```
 
+## Start Linkerd!
+
+```bash
+./linkerd-1.0.2-exec linkerd.yml
+```
+
 ## Send Some Requests!
 
 ```bash
