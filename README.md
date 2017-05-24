@@ -54,7 +54,7 @@ where services are running.
 
 ```bash
 mkdir disco
-cat << EOF > /disco/animal
+cat << EOF > disco/animal
 > 127.1 7777
 > 127.1 7778
 > EOF
